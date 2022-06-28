@@ -15,7 +15,7 @@ voici les fichier a ouvrir:
 
 (Tools.h et HitGroupingByLayer.h sont vide pour l'instant)
 
-les fichier.root sont dans myroot
+les fichier.root sont dans PFA/myroot/
 
 Pour lancer un fichier au choix
 
