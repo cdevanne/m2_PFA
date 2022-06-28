@@ -11,8 +11,7 @@ voici les fichier a ouvrir:
 	Tools.C
 	HitGroupingByLayer.C		(ce dernier contient un peu tout c'est la bazar)
 
-	(Tools.h et HitGroupingByLayer.h sont vide pour l'instant)
-
+(Tools.h et HitGroupingByLayer.h sont vide pour l'instant)
 les fichier.root sont dans myroot
 
 Pour lancer un fichier au choix
@@ -21,6 +20,7 @@ Pour lancer un fichier au choix
 	root [1] Process("SDHCAL_PFA.C")
 
 avoir le graphe de moi vs Rémi:
+
 	$ source Macro.sh
 
 
