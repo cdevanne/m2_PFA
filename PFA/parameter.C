@@ -1,1 +1,0 @@
-double PARAM = 150.;
