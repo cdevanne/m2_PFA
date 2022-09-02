@@ -1,0 +1,37 @@
+
+//Data de Rémi
+
+    double ypurityR[6];
+	ypurityR[0] = 37.5;
+	ypurityR[1] = 73.;
+	ypurityR[2] = 85.;
+	ypurityR[3] = 88.;
+	ypurityR[4] = 90.;
+	ypurityR[5] = 91.;
+
+	double yefficiencyR[6];   
+	yefficiencyR[0] = 36.;
+	yefficiencyR[1] = 74.;
+	yefficiencyR[2] = 88.;
+	yefficiencyR[3] = 92.;
+	yefficiencyR[4] = 95.;
+	yefficiencyR[5] = 97.;
+
+//Data mon algorithme sans utiliser le timing
+
+    double ypurityWithoutTiming[6];
+    ypurityWithoutTiming[0] = 32.9126;
+    ypurityWithoutTiming[1] = 78.0036;
+    ypurityWithoutTiming[2] = 87.0555;
+    ypurityWithoutTiming[3] = 91.0181;
+    ypurityWithoutTiming[4] = 91.0181;
+    ypurityWithoutTiming[5] = 96.1097;
+
+    double yefficiencyWithoutTiming[6];
+    yefficiencyWithoutTiming[0] =  34.4264;
+    yefficiencyWithoutTiming[1] =  64.3777;
+    yefficiencyWithoutTiming[2] =  78.213;
+    yefficiencyWithoutTiming[3] =  82.4602;
+    yefficiencyWithoutTiming[4] =  88.3716;
+    yefficiencyWithoutTiming[5] =  88.3716;
+
