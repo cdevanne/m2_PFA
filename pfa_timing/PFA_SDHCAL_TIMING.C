@@ -35,10 +35,8 @@
 #include "ToolsMath.C"
 #include "TTree.h"
 
+#include "setting.C"
 
-
-bool print = true;  //Set true if you want print datas
-bool plot2 = false;  //Set true if you want plot datas (hold 1s for every event) save them in "graph"
 int seuil = 10;      //print will show datas for arbors with at least "seuil" hits
 
 //performance
