@@ -461,20 +461,15 @@ Bool_t PFA_SDHCAL_TIMING::Process(Long64_t entry)
    {
       purity2 = 0.;
       completions2 = 0.;
+      
+      //only 1 arbor
    }
-
-   // if (purity2 < 5 || NumberOfArborInSize(arbors, 20, 10000) != 2)
-   // {
-   //    --countEvent;
-   //    return kTRUE;
-   // }
 
 
    meanDataUsed += (double)dataUsed;
 
 
-   //if (K.GetSize() == nbOfHits)
-   {
+
       pur1 += purity1;
       pur2 += purity2;
       comp1 += 100.*completions1;
@@ -483,7 +478,7 @@ Bool_t PFA_SDHCAL_TIMING::Process(Long64_t entry)
 
       allPurity.push_back(purity2);
       allEfficiency.push_back(100*completions2);
-   }
+   
 
 
 
