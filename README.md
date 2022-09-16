@@ -6,9 +6,9 @@ try to separates two neighboring hadronic showers
 
 in file pfa_timing
 	
->cd m2_pfa/pfa_timing
+> $ cd m2_pfa/pfa_timing
 
->root yourRootFile.root
+> $ root yourRootFile.root
 
 in root : 
 
@@ -17,7 +17,7 @@ in root :
 
 A new rootFile with the reconstruction of particles is created in : 
 
-> rootFile/outputPFA.root
+> $ rootFile/outputPFA.root
 
 ## setting (in setting.C)
 
