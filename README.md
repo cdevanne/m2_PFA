@@ -12,6 +12,8 @@ in file pfa_timing
 	
 > $ cd m2_pfa/pfa_timing
 
+start root and launch your file with dayas (examples of input rootfile are in /rootFiles
+
 > $ root yourRootFile.root
 
 in root : 
