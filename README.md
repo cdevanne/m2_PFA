@@ -1,5 +1,7 @@
 # pfa_timing
 
+try to separates two neighboring hadronic showers
+
 ##How to use : 
 
 in file pfa_timing
